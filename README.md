@@ -82,7 +82,7 @@ The current version of this project is a functioning "work in progress" as it wa
 
 Comment
 ----------
-This is a pet project for me and is not currently backed by a need for a Kafka server client.  Which means the client is only currently being tested against a small set of Kafka test servers and not against any server that has any real data load.  
+This is a pet project for me and is not currently backed by a need for a Kafka server client.  Which means the client is only currently being tested against a small set of Kafka test servers and not against to any server that has any real data load.  
 
 
 
